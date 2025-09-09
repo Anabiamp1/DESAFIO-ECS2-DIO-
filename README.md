@@ -64,7 +64,7 @@ Esse desafio permitiu:
 ✨ **Autora :** Ana Beatriz M. P. Ramos    
 📌 Desafio do Bootcamp **Santander Coders Girls - DIO**  
 
-<a href="www.linkedin.com/in/anabeatrizmpramos"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
+<a href="https://www.linkedin.com/in/ana-beatriz-m-p-ramos-936b13137/"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
 
 
 
