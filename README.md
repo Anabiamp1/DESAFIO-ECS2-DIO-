@@ -2,6 +2,8 @@
 ##
 # 🚀 Desafio de Gerenciamento de Instâncias EC2 na AWS  
 
+<img width="549" height="649" alt="Image" src="https://github.com/user-attachments/assets/094dca0c-ff71-4164-b1ff-5bad7ebcc75c" />
+
 ---
 ## 🎯 Descrição do Desafio  
 Este laboratório tem como objetivo consolidar seus conhecimentos em gerenciamento de instâncias **EC2 na AWS**.  
